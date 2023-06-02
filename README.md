@@ -1,1 +1,1 @@
-# SecureMedicalReports
+School's mini project.
